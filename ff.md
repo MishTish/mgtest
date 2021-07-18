@@ -10,11 +10,11 @@ Contacts:
 
 Bio: 
 
-Skills: None
+Skills: None at the moment
 
 Code Example:
 
-Work Experience: None
+Work Experience: None yet
 
 Education: None besides this one
 
