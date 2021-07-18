@@ -5,8 +5,10 @@ Name: Michael Tishevsky
 Contacts:
 + email: tishevsky@ukr.net
 + phone: +380975690553
++ discord: MichaelFeed#3616
++ 
 
-Bio:
+Bio: 
 
 Skills: None
 
@@ -16,4 +18,4 @@ Work Experience: None
 
 Education: None besides this one
 
-English: B2
+English Level: B2
